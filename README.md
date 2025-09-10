@@ -1,4 +1,4 @@
-# Fraud Detection Analysis – 947 Customers, 5 Countries  
+# Transaction Risk Score Analysis – 947 Customers, 5 Countries  
 
 ## Project Objective  
 The objective of this project is to analyze **customer transactions across five countries** (China, Nigeria, Pakistan, Russia, and Venezuela) in order to detect fraud risks, identify suspicious behaviors, and highlight systemic vulnerabilities.  
